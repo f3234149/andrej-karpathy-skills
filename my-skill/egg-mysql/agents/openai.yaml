@@ -1,0 +1,4 @@
+interface:
+  display_name: "Egg MySQL"
+  short_description: "编写 Egg.js egg-mysql 的 CRUD、SQL、事务和 Literal 用法"
+  default_prompt: "请根据 Egg.js egg-mysql 官方用法，帮助我编写或审查 CRUD、直接 SQL、事务或 Literal 相关代码。"
